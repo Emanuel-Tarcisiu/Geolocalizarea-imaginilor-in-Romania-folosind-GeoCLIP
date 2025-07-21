@@ -1,0 +1,10 @@
+pandas
+numpy
+googlemaps
+requests
+torch
+torchvision
+Pillow
+transformers
+geopy
+psutil
